@@ -1,5 +1,5 @@
 [discord]
-token = "main_bot_token"
+token = "NDAxNTA3MzM4MDEzNjM4NjU2.DTsS0g.ecDa_xEL4nbsL0V1msVa0ppFIbw"
 
 [[commands]]
 prefix = "Qdnp"
@@ -33,4 +33,4 @@ token = "youtube_token_here"
 token = "radio_bot_1_token"
 channel = "330121740758024193"
 name = "Q-Dance Radio"
-url = "http://audio.true.nl/qdance-hard"
+url = "http://perseus.shoutca.st:9253/stream"
